@@ -1,0 +1,42 @@
+#main {
+	margin-top: 3.5rem;
+}
+
+.carousel {
+	background-color: #212529;
+	height: 20rem;
+}
+.carousel-item {
+	background-color: #212529;
+}
+.carousel-panel {
+	height: 20rem;
+}
+.carousel-cards {
+	position: absolute;
+	top: 0.5rem;
+	left: 15%;
+	right: 15%;
+}
+.carousel-indicators {
+	background-color: #212529;
+}
+.carousel-inner {
+	background-color: #212529;
+}
+
+.catalog {
+	height: 13rem;
+}
+.catalog-icon {
+	width: 100%;
+	padding-top: 0.5rem;
+	text-align: center;
+}
+.catalog-icon-img {
+	width: 4rem;
+	height: 4rem !important;
+}
+.catalog-body {
+	text-align: right;
+}
